@@ -1,11 +1,12 @@
 📊 Project Title "Executive Sales Analysis in Excel"
+
 📁 Project Overview
 A comprehensive Excel-based dashboard to analyze the performance of sales executives across different regions. This project demonstrates data cleaning, calculation of KPIs, and dashboard creation using Microsoft Excel tools.
 
 Dataset Description
 
 The dataset contains performance data for multiple sales executives over 5 working days. It includes daily sales figures, target achievement metrics, and geographical assignment.
-<a href = "">Data Set </a>
+<a href = "https://github.com/Hira243/executive_sales_analysis_excel/blob/main/Executive_Sales_Analysis.xlsm">Data Set </a>
 
 Column Description:
 - Emp Code: Unique employee code
@@ -17,7 +18,6 @@ Column Description:
 - Target Hit %: Ratio of actual sales to the target (Total Sales / Target)
 - Away From Target %: How much the sales fell short from the target (1 - Target Hit %)
 
----
 
 Dashboard Features
 
@@ -26,20 +26,23 @@ The dashboard provides quick insights into team performance with the help of tab
 - Underperformers - Executives farthest from their targets
 - Target Achievement % - Quickly view who hit or missed goals
 - Comparison Charts - Bar and column charts to compare individual results
-- (Optional) Regional insights can be added for deeper analysis
+- Regional insights can be added for deeper analysis
 
----
+🖼️ Screenshots
+
+
+
+
 
 Tools & Techniques Used
-
-- Excel Formulas (SUM, AVERAGE, etc.)
-- Conditional Formatting
+ 
 - Pivot Tables
 - Charts (Bar, Column)
+- Slicer
+- Checkbox (Form Control)
+- Macros
 - KPI Metrics
 - Interactive Dashboard Layout
-
----
 
 How to Use
 
@@ -48,8 +51,6 @@ How to Use
 3. Explore the `Sheet1` tab for raw data.
 4. Visit the `Dashboard` tab for a summary view of sales performance.
 
----
-
 Future Enhancements
 
 - Add slicers for filtering by region or date.
@@ -57,16 +58,7 @@ Future Enhancements
 - Include trendline charts for day-wise progress.
 - Add charts for regional performance comparison.
 
----
-
 Author
 
 Hira Saleem  
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
-
----
-
-License
-
-This project is open source and free to use for learning and portfolio purposes.
-
