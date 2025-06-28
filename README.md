@@ -1,6 +1,7 @@
 📊 Project Title "Executive Sales Analysis in Excel"
 
 📁 Project Overview
+
 A comprehensive Excel-based dashboard to analyze the performance of sales executives across different regions. This project demonstrates data cleaning, calculation of KPIs, and dashboard creation using Microsoft Excel tools.
 
 Dataset Description
@@ -28,11 +29,9 @@ The dashboard provides quick insights into team performance with the help of tab
 - Comparison Charts - Bar and column charts to compare individual results
 - Regional insights can be added for deeper analysis
 
-🖼️ Screenshots
+🖼️ Screenshot
 
-
-
-
+Executive_Sales_Analysis.png
 
 Tools & Techniques Used
  
