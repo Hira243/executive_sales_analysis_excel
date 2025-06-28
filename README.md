@@ -9,7 +9,7 @@ The dataset contains performance data for multiple sales executives over 5 worki
 <a href = "https://github.com/Hira243/executive_sales_analysis_excel/blob/main/Executive_Sales_Analysis.xlsm">Dataset</a>
 
 **Dataset Description**
-oyee code
+
 - Sales Executive: Name of the sales representative
 - Region: Assigned region (e.g., Mumbai, Delhi)
 - Day1 - Day5: Sales values for each day
